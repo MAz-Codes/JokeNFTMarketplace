@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jokenftmarketplace/static/css/main.e6c13ad2.css",
+    "main.js": "/jokenftmarketplace/static/js/main.81eabf2f.js",
+    "static/js/787.7e56ba53.chunk.js": "/jokenftmarketplace/static/js/787.7e56ba53.chunk.js",
+    "index.html": "/jokenftmarketplace/index.html",
+    "main.e6c13ad2.css.map": "/jokenftmarketplace/static/css/main.e6c13ad2.css.map",
+    "main.81eabf2f.js.map": "/jokenftmarketplace/static/js/main.81eabf2f.js.map",
+    "787.7e56ba53.chunk.js.map": "/jokenftmarketplace/static/js/787.7e56ba53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.81eabf2f.js"
+  ]
+}
