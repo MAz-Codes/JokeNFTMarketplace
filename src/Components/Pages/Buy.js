@@ -28,7 +28,7 @@ function Buy() {
         {id: "3",
          url: 'https://www.motherjones.com/wp-content/uploads/2022/12/20221215TrumpNFT.png?resize=768,432',
          alt: 'A stupid Monkey',
-         title: "A stupid fucking Monkey",
+         title: "Another fucking Monkey",
          body: "Buy this monkey and lose everything instantly! We gauranty money loss within 24 hours.I mean... it's a picture of a fucking monkey... are you mental???",
          price: "400"
         },

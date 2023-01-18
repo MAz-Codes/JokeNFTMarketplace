@@ -1,6 +1,6 @@
 {
-  "homepage": "http://mazcoding.github.io/jokenftmarketplace",
-  "name": "luigi",
+  "homepage": "http://mazcoding.github.io/JokeNFTMarketplace/",
+  "name": "jokenft",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
